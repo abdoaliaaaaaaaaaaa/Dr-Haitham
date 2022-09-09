@@ -43,11 +43,11 @@ myJson.onreadystatechange = function () {
 
 // -----------------------------------------
 
-let images = document.createElement("img");
-images.src = "../images/لقطة الشاشة 2022-09-09 072402.png";
-let header = document.querySelector("header.images");
-images.style.maxWidth = "100%";
-header.append(images);
+// let images = document.createElement("img");
+// images.src = "../images/لقطة الشاشة 2022-09-09 072402.png";
+// let header = document.querySelector("header.images");
+// images.style.maxWidth = "100%";
+// header.append(images);
 
 // // Videos Rating تقييم 4
 async function getVideo(apiLink) {

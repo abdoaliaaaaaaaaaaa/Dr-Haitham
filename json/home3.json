@@ -1,0 +1,1712 @@
+{
+    "kind": "youtube#searchListResponse",
+    "etag": "MaA33ze-f4aYEZ2MEzVOHP-RfUo",
+    "nextPageToken": "CDIQAA",
+    "regionCode": "EG",
+    "pageInfo": {
+        "totalResults": 368,
+        "resultsPerPage": 50
+    },
+    "items": [
+        {
+        "kind": "youtube#searchResult",
+        "etag": "WutmLQc-EmN-VXJFLtIymAaVxDk",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "DhzvE4cAIYY"
+        },
+        "snippet": {
+            "publishedAt": "2020-02-24T16:51:02Z",
+            "channelId": "UCLj8UFOcdFrvlh24Lw7jrgA",
+            "title": "كيف تتخلص من الوساوس الكُفرية القهرية في 3 خطوات؟",
+            "description": "كيف يصل صاحب الوسواس القهري في العقيدة إلى اليقين؟ ما هو علاج الوساوس القهرية والشكوك الكُفرية؟ ما هو المنهج النبوي في علاج ...",
+            "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/DhzvE4cAIYY/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/DhzvE4cAIYY/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/DhzvE4cAIYY/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+            },
+            "channelTitle": "د. هيثم طلعت Dr. Haitham Talaat",
+            "liveBroadcastContent": "none",
+            "publishTime": "2020-02-24T16:51:02Z"
+        }
+        },
+        {
+        "kind": "youtube#searchResult",
+        "etag": "gu_A77y1cGE0zTrq9gFBoI7UNVY",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "dtcvB-V5m24"
+        },
+        "snippet": {
+            "publishedAt": "2018-12-27T15:46:48Z",
+            "channelId": "UCLj8UFOcdFrvlh24Lw7jrgA",
+            "title": "معجزات القرآن (1) القرآن يصحح مشكلة خطيرة عند اليهود، وأين قالت اليهود عزير ابن الله؟ (.Eng. Sub)",
+            "description": "القرآن يصحح مشكلة עֶזְרָא عند اليهود ::: من معجزات القرآن Eps 1 كتاب النبأ العظيم نظرات جديدة في القرآن، د. عبد الله دراز: ...",
+            "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/dtcvB-V5m24/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/dtcvB-V5m24/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/dtcvB-V5m24/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+            },
+            "channelTitle": "د. هيثم طلعت Dr. Haitham Talaat",
+            "liveBroadcastContent": "none",
+            "publishTime": "2018-12-27T15:46:48Z"
+        }
+        },
+        {
+        "kind": "youtube#searchResult",
+        "etag": "_2Y3OeXbhcKP8irySZRqqbZviow",
+        "id": {
+            "kind": "youtube#playlist",
+            "playlistId": "PLN2jADncOIAIfm1gqxrQlR0ElzyDc_VgG"
+        },
+        "snippet": {
+            "publishedAt": "2018-08-17T02:01:40Z",
+            "channelId": "UCLj8UFOcdFrvlh24Lw7jrgA",
+            "title": "الرد على قناة Wake up - فيق",
+            "description": "",
+            "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/Vdj9L94-OWE/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/Vdj9L94-OWE/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/Vdj9L94-OWE/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+            },
+            "channelTitle": "د. هيثم طلعت Dr. Haitham Talaat",
+            "liveBroadcastContent": "none",
+            "publishTime": "2018-08-17T02:01:40Z"
+        }
+        },
+        {
+        "kind": "youtube#searchResult",
+        "etag": "4zdU4-2nSZB7KceeI065h46GVIQ",
+        "id": {
+            "kind": "youtube#playlist",
+            "playlistId": "PLN2jADncOIAITGEOJdIPYjLnLlV4bp5uA"
+        },
+        "snippet": {
+            "publishedAt": "2018-12-30T17:36:39Z",
+            "channelId": "UCLj8UFOcdFrvlh24Lw7jrgA",
+            "title": "الرد على الربوبي",
+            "description": "",
+            "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/Bvx2ovbaDGw/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/Bvx2ovbaDGw/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/Bvx2ovbaDGw/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+            },
+            "channelTitle": "د. هيثم طلعت Dr. Haitham Talaat",
+            "liveBroadcastContent": "none",
+            "publishTime": "2018-12-30T17:36:39Z"
+        }
+        },
+        {
+        "kind": "youtube#searchResult",
+        "etag": "HUqRXuVUZYaTGLVmTUZ8EyDZ77w",
+        "id": {
+            "kind": "youtube#playlist",
+            "playlistId": "PLN2jADncOIAJxwP7NbGY8D-T-OL5A_TOR"
+        },
+        "snippet": {
+            "publishedAt": "2020-08-08T19:27:57Z",
+            "channelId": "UCLj8UFOcdFrvlh24Lw7jrgA",
+            "title": "قصي تشكيلة",
+            "description": "",
+            "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/CFpDJhAkF8U/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/CFpDJhAkF8U/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/CFpDJhAkF8U/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+            },
+            "channelTitle": "د. هيثم طلعت Dr. Haitham Talaat",
+            "liveBroadcastContent": "none",
+            "publishTime": "2020-08-08T19:27:57Z"
+        }
+        },
+        {
+        "kind": "youtube#searchResult",
+        "etag": "p7Pw4EPGxnECrtTdRGOQhdd9zls",
+        "id": {
+            "kind": "youtube#playlist",
+            "playlistId": "PLN2jADncOIALewLgiC8StkZn9tSp9bNTf"
+        },
+        "snippet": {
+            "publishedAt": "2018-01-24T00:22:16Z",
+            "channelId": "UCLj8UFOcdFrvlh24Lw7jrgA",
+            "title": "الرد على حلقات شريف جابر",
+            "description": "",
+            "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/D2DKyJCOwLk/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/D2DKyJCOwLk/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/D2DKyJCOwLk/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+            },
+            "channelTitle": "د. هيثم طلعت Dr. Haitham Talaat",
+            "liveBroadcastContent": "none",
+            "publishTime": "2018-01-24T00:22:16Z"
+        }
+        },
+        {
+        "kind": "youtube#searchResult",
+        "etag": "mJPgQp2WR4FcdzPjHf-ERN76SNQ",
+        "id": {
+            "kind": "youtube#playlist",
+            "playlistId": "PLN2jADncOIAJhydw9PMKZeewPgf-Y37Mj"
+        },
+        "snippet": {
+            "publishedAt": "2017-11-21T10:27:49Z",
+            "channelId": "UCLj8UFOcdFrvlh24Lw7jrgA",
+            "title": "برنامج ملحد يسأل والدكتور يجيب",
+            "description": "",
+            "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/qDA7Mcqisf4/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/qDA7Mcqisf4/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/qDA7Mcqisf4/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+            },
+            "channelTitle": "د. هيثم طلعت Dr. Haitham Talaat",
+            "liveBroadcastContent": "none",
+            "publishTime": "2017-11-21T10:27:49Z"
+        }
+        },
+        {
+        "kind": "youtube#searchResult",
+        "etag": "anLz08TPuZknoxTKBwONmfDX7iY",
+        "id": {
+            "kind": "youtube#playlist",
+            "playlistId": "PLN2jADncOIAKN45Jg_4jIbB0JXhTqo62d"
+        },
+        "snippet": {
+            "publishedAt": "2018-02-02T19:13:31Z",
+            "channelId": "UCLj8UFOcdFrvlh24Lw7jrgA",
+            "title": "فضح كهنة الإلحاد العرب",
+            "description": "",
+            "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/mWLU1CQyx5o/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/mWLU1CQyx5o/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/mWLU1CQyx5o/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+            },
+            "channelTitle": "د. هيثم طلعت Dr. Haitham Talaat",
+            "liveBroadcastContent": "none",
+            "publishTime": "2018-02-02T19:13:31Z"
+        }
+        },
+        {
+        "kind": "youtube#searchResult",
+        "etag": "qxip1H7ZCYxZtHcqs_QJfVqCPi0",
+        "id": {
+            "kind": "youtube#playlist",
+            "playlistId": "PLN2jADncOIAKiPj8ZPeRnoBw8C00uDj9g"
+        },
+        "snippet": {
+            "publishedAt": "2019-08-02T14:20:00Z",
+            "channelId": "UCLj8UFOcdFrvlh24Lw7jrgA",
+            "title": "الرد على النكسة الفكرية",
+            "description": "",
+            "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/JiVoygAkh8E/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/JiVoygAkh8E/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/JiVoygAkh8E/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+            },
+            "channelTitle": "د. هيثم طلعت Dr. Haitham Talaat",
+            "liveBroadcastContent": "none",
+            "publishTime": "2019-08-02T14:20:00Z"
+        }
+        },
+        {
+        "kind": "youtube#searchResult",
+        "etag": "ZSBj-7L3Z5VH8ZZ8tWWznF_CYJU",
+        "id": {
+            "kind": "youtube#playlist",
+            "playlistId": "PLN2jADncOIAJyG7-yMTYF9GhwM2KP8Y9M"
+        },
+        "snippet": {
+            "publishedAt": "2021-12-08T19:02:39Z",
+            "channelId": "UCLj8UFOcdFrvlh24Lw7jrgA",
+            "title": "الرد على الملحد أيْهُما",
+            "description": "",
+            "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/d4eRSJ4VWI4/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/d4eRSJ4VWI4/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/d4eRSJ4VWI4/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+            },
+            "channelTitle": "د. هيثم طلعت Dr. Haitham Talaat",
+            "liveBroadcastContent": "none",
+            "publishTime": "2021-12-08T19:02:39Z"
+        }
+        },
+        {
+        "kind": "youtube#searchResult",
+        "etag": "BAy5XrsWcg3NIRKV0AXNIjhgHzw",
+        "id": {
+            "kind": "youtube#playlist",
+            "playlistId": "PLN2jADncOIAL6oxJm5MreX63b0k5yZpwl"
+        },
+        "snippet": {
+            "publishedAt": "2019-07-15T12:56:09Z",
+            "channelId": "UCLj8UFOcdFrvlh24Lw7jrgA",
+            "title": "دورة تحصين العقل المسلم",
+            "description": "",
+            "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/pvde2v9FKz8/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/pvde2v9FKz8/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/pvde2v9FKz8/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+            },
+            "channelTitle": "د. هيثم طلعت Dr. Haitham Talaat",
+            "liveBroadcastContent": "none",
+            "publishTime": "2019-07-15T12:56:09Z"
+        }
+        },
+        {
+        "kind": "youtube#searchResult",
+        "etag": "bytxCKBFH3KgTAhJur6SwA-5trc",
+        "id": {
+            "kind": "youtube#playlist",
+            "playlistId": "PLN2jADncOIAL_826zvO8X9o02-iMt-FpO"
+        },
+        "snippet": {
+            "publishedAt": "2016-08-28T14:18:41Z",
+            "channelId": "UCLj8UFOcdFrvlh24Lw7jrgA",
+            "title": "الرد على كهنة الإلحاد",
+            "description": "",
+            "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/1xZq6wOFuuo/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/1xZq6wOFuuo/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/1xZq6wOFuuo/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+            },
+            "channelTitle": "د. هيثم طلعت Dr. Haitham Talaat",
+            "liveBroadcastContent": "none",
+            "publishTime": "2016-08-28T14:18:41Z"
+        }
+        },
+        {
+        "kind": "youtube#searchResult",
+        "etag": "Pigd1e8hpmV-ZM-JwNZUuKlVjzk",
+        "id": {
+            "kind": "youtube#playlist",
+            "playlistId": "PLN2jADncOIAJwAf04olhfDrIn-Vfb0cRg"
+        },
+        "snippet": {
+            "publishedAt": "2017-03-16T09:53:21Z",
+            "channelId": "UCLj8UFOcdFrvlh24Lw7jrgA",
+            "title": "دورة: كيف تدعو إلى الإسلام؟ كاملة",
+            "description": "أنشروا هذه الدورة بارك الله فيكم ونفع بكم.",
+            "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/LYHhzrHf70k/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/LYHhzrHf70k/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/LYHhzrHf70k/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+            },
+            "channelTitle": "د. هيثم طلعت Dr. Haitham Talaat",
+            "liveBroadcastContent": "none",
+            "publishTime": "2017-03-16T09:53:21Z"
+        }
+        },
+        {
+        "kind": "youtube#searchResult",
+        "etag": "0sEuEmkA_7p2454HYBS9Yr-lat8",
+        "id": {
+            "kind": "youtube#playlist",
+            "playlistId": "PLN2jADncOIAIlXzNT4J061lEIYzoCm84j"
+        },
+        "snippet": {
+            "publishedAt": "2017-01-04T01:03:56Z",
+            "channelId": "UCLj8UFOcdFrvlh24Lw7jrgA",
+            "title": "الإلحاد كهنوت",
+            "description": "",
+            "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/9lBRTpQLhyY/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/9lBRTpQLhyY/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/9lBRTpQLhyY/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+            },
+            "channelTitle": "د. هيثم طلعت Dr. Haitham Talaat",
+            "liveBroadcastContent": "none",
+            "publishTime": "2017-01-04T01:03:56Z"
+        }
+        },
+        {
+        "kind": "youtube#searchResult",
+        "etag": "Rv6yB_WkcAvhiZQ69ycgE-a-0XQ",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "ekM7onxRDyM"
+        },
+        "snippet": {
+            "publishedAt": "2018-08-02T11:15:56Z",
+            "channelId": "UCLj8UFOcdFrvlh24Lw7jrgA",
+            "title": "وسواس العقيدة كيف أتعامل معه وكيف أتخلص منه؟ خمس نصائح تزيله تماما إن شاء الله(English Sub)",
+            "description": "وسواس العقيدة والشكوك في الدين التي تتولد ذاتيا مشكلة يعاني منها بعض الناس، في هذه الحلقة طريقة ونصائح للتعامل مع هذه المشكلة.",
+            "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/ekM7onxRDyM/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/ekM7onxRDyM/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/ekM7onxRDyM/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+            },
+            "channelTitle": "د. هيثم طلعت Dr. Haitham Talaat",
+            "liveBroadcastContent": "none",
+            "publishTime": "2018-08-02T11:15:56Z"
+        }
+        },
+        {
+        "kind": "youtube#searchResult",
+        "etag": "P7REFW6Vog2ssr5O05VBOG6sqJ8",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "VLGErJCJoG4"
+        },
+        "snippet": {
+            "publishedAt": "2018-05-10T12:23:13Z",
+            "channelId": "UCLj8UFOcdFrvlh24Lw7jrgA",
+            "title": "نسف شبهة سجود الشمس تحت العرش &quot;تذهب حتى تسجد تحت العرش&quot; Sun Prostrating under the Throne",
+            "description": "الرد على شبهة في قول النبي صلى الله عليه وسلم لأبي ذر: \"أَتَدْرِي أَيْنَ تَذْهَبُ؟ قُلْتُ : اللَّهُ وَرَسُولُهُ أَعْلَمُ ، قَالَ : فَإِنَّهَا تَذْهَبُ حَتَّى تَسْجُدَ تَحْتَ ...",
+            "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/VLGErJCJoG4/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/VLGErJCJoG4/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/VLGErJCJoG4/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+            },
+            "channelTitle": "د. هيثم طلعت Dr. Haitham Talaat",
+            "liveBroadcastContent": "none",
+            "publishTime": "2018-05-10T12:23:13Z"
+        }
+        },
+        {
+        "kind": "youtube#searchResult",
+        "etag": "ioPDX7JYECZdBZSDAhBPLA8yykM",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "HDwC8b-GE84"
+        },
+        "snippet": {
+            "publishedAt": "2019-10-22T14:02:30Z",
+            "channelId": "UCLj8UFOcdFrvlh24Lw7jrgA",
+            "title": "كيف بدأت المعلومة؟ وهل هناك خلايا بدائية وخلايا معقدة؟ | تحصين العقل المسلم (8)  English Subtitle",
+            "description": "كيف ظهرت المعلومات في الشريط الجيني؟ وهل بالفعل هناك خلايا بدائية أولية وخلايا معقدة؟ أم أن الكل معقد ومبهر؟ ما هو الحد الأدنى من الجينات ...",
+            "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/HDwC8b-GE84/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/HDwC8b-GE84/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/HDwC8b-GE84/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+            },
+            "channelTitle": "د. هيثم طلعت Dr. Haitham Talaat",
+            "liveBroadcastContent": "none",
+            "publishTime": "2019-10-22T14:02:30Z"
+        }
+        },
+        {
+        "kind": "youtube#searchResult",
+        "etag": "d8Z-B5t3vql_qjycweNlC1rOcCE",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "G9V6uW8FS_A"
+        },
+        "snippet": {
+            "publishedAt": "2018-04-04T18:16:04Z",
+            "channelId": "UCLj8UFOcdFrvlh24Lw7jrgA",
+            "title": "كائن صغير ( التارديجراد ) يُسقط نظرية التطور Tardigarde Debunks Evolution Theory (Eng Subtitle)",
+            "description": "معلومة لم أذكرها في المقطع وظننت أنها مفهومة الHorizontal gene transfer ثابتة علميا وأحد أهم أسلحة الباكتريا في مقاومة المضاد الحيوي ...",
+            "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/G9V6uW8FS_A/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/G9V6uW8FS_A/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/G9V6uW8FS_A/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+            },
+            "channelTitle": "د. هيثم طلعت Dr. Haitham Talaat",
+            "liveBroadcastContent": "none",
+            "publishTime": "2018-04-04T18:16:04Z"
+        }
+        },
+        {
+        "kind": "youtube#searchResult",
+        "etag": "lzdQcPNvpBZ13oxr66j4oNfdLhc",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "yXFLgX47R0E"
+        },
+        "snippet": {
+            "publishedAt": "2017-12-25T05:00:04Z",
+            "channelId": "UCLj8UFOcdFrvlh24Lw7jrgA",
+            "title": "هل كان طوفان نوح عليه السلام عالميا أم إقليميا؟ - ملحد يسأل والدكتور يجيب",
+            "description": "هل طوفان نوح عليه السلام كان عاما؟ هل غمر الطوفان كل الأرض؟ لا تنسوا عمل إعجاب للمقطع والاشتراك في القناة بارك الله فيكم. 1- الحدود ...",
+            "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/yXFLgX47R0E/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/yXFLgX47R0E/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/yXFLgX47R0E/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+            },
+            "channelTitle": "د. هيثم طلعت Dr. Haitham Talaat",
+            "liveBroadcastContent": "none",
+            "publishTime": "2017-12-25T05:00:04Z"
+        }
+        },
+        {
+        "kind": "youtube#searchResult",
+        "etag": "F0PBdeH_-p5c2tN2oKpz8p_7ddo",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "E0OEL8nAn2g"
+        },
+        "snippet": {
+            "publishedAt": "2018-11-27T10:45:48Z",
+            "channelId": "UCLj8UFOcdFrvlh24Lw7jrgA",
+            "title": "شبهات الملحدين حول زواج الرسول صلى الله عليه وسلم (English Subtitle)",
+            "description": "شرح ملاخي إصحاح 4 عدد 5 قمت به على هذا الرابط: https://www.youtube.com/watch?v=ts6-G0xFsZM لم يتعاط النبي محمد صلى الله عليه ...",
+            "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/E0OEL8nAn2g/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/E0OEL8nAn2g/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/E0OEL8nAn2g/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+            },
+            "channelTitle": "د. هيثم طلعت Dr. Haitham Talaat",
+            "liveBroadcastContent": "none",
+            "publishTime": "2018-11-27T10:45:48Z"
+        }
+        },
+        {
+        "kind": "youtube#searchResult",
+        "etag": "gYaqJWMmy47nM8JGYJ_LBppioWg",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "5GYcpXWhRuQ"
+        },
+        "snippet": {
+            "publishedAt": "2020-07-28T19:15:27Z",
+            "channelId": "UCLj8UFOcdFrvlh24Lw7jrgA",
+            "title": "تحققت أغلب العلامات الصغرى والوسطى ليوم القيامة ... برهان على صحة النبوة",
+            "description": "قيام الساعة اقترب ... في هذه الحلقة نسلط الضوء على بعض علامات الساعة الصغرى والوسطى التي تحققت في ضوء الحديث النبوي وفي ...",
+            "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/5GYcpXWhRuQ/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/5GYcpXWhRuQ/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/5GYcpXWhRuQ/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+            },
+            "channelTitle": "د. هيثم طلعت Dr. Haitham Talaat",
+            "liveBroadcastContent": "none",
+            "publishTime": "2020-07-28T19:15:27Z"
+        }
+        },
+        {
+        "kind": "youtube#searchResult",
+        "etag": "dKFyb_IoS37yj_Q2rk6BElFsGnY",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "atkmTcxpJ-Q"
+        },
+        "snippet": {
+            "publishedAt": "2018-10-25T15:44:14Z",
+            "channelId": "UCLj8UFOcdFrvlh24Lw7jrgA",
+            "title": "لماذا حجم الكون بهذه الضخامة والعظمة؟ | وهل لنا قيمة بالنسبة لحجم الكون؟ (English Subtitle)",
+            "description": "من الأسبوع القادم إن شاء الله سأنشر بصفة دورية حلقتين على قناتي أسبوعيا بدلا من حلقة واحدة... حلقة يوم الخميس وحلقة أخرى وسط ...",
+            "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/atkmTcxpJ-Q/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/atkmTcxpJ-Q/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/atkmTcxpJ-Q/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+            },
+            "channelTitle": "د. هيثم طلعت Dr. Haitham Talaat",
+            "liveBroadcastContent": "none",
+            "publishTime": "2018-10-25T15:44:14Z"
+        }
+        },
+        {
+        "kind": "youtube#searchResult",
+        "etag": "euEW_ylVbBWHLwqgw3X3Pp5iuDQ",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "vGfNH4xrZUA"
+        },
+        "snippet": {
+            "publishedAt": "2020-04-03T15:15:15Z",
+            "channelId": "UCLj8UFOcdFrvlh24Lw7jrgA",
+            "title": "هل فيروس كورونا مُخلق صناعيًا أو مُعدل وراثيًا في مختبرات؟ وهل هي مؤامرة عالمية؟",
+            "description": "هل الجيش الأمريكي وراء انتشار فيروس كورونا SARS-CoV-2؟ هي فيروس كورونا تم تصنيعه في مختبرات أمريكية أو صينية؟ هل يمكن ...",
+            "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/vGfNH4xrZUA/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/vGfNH4xrZUA/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/vGfNH4xrZUA/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+            },
+            "channelTitle": "د. هيثم طلعت Dr. Haitham Talaat",
+            "liveBroadcastContent": "none",
+            "publishTime": "2020-04-03T15:15:15Z"
+        }
+        },
+        {
+        "kind": "youtube#searchResult",
+        "etag": "0oCWVQhUDVNisbQQgIl6etrtkhw",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "FwTWj_85zlQ"
+        },
+        "snippet": {
+            "publishedAt": "2020-04-17T14:38:20Z",
+            "channelId": "UCLj8UFOcdFrvlh24Lw7jrgA",
+            "title": "القرآن يصحح أخطاء أرسطو وجالين وأبقراط في مراحل تكوين الجنين",
+            "description": "خرافة كارثية نشرها الملاحدة طوال سنوات وهي أن القرآن ينقل عن أرسطو أو جالين أو غيرهما، وبالعودة لكتب أرسطو وجالين وأبقراط وأطباء ذاك ...",
+            "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/FwTWj_85zlQ/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/FwTWj_85zlQ/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/FwTWj_85zlQ/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+            },
+            "channelTitle": "د. هيثم طلعت Dr. Haitham Talaat",
+            "liveBroadcastContent": "none",
+            "publishTime": "2020-04-17T14:38:20Z"
+        }
+        },
+        {
+        "kind": "youtube#searchResult",
+        "etag": "M0FNI0iRmQkZ_2Lxw-2AsStrRhw",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "hqyUPLb7t_g"
+        },
+        "snippet": {
+            "publishedAt": "2020-03-03T18:18:16Z",
+            "channelId": "UCLj8UFOcdFrvlh24Lw7jrgA",
+            "title": "هل الله يُزين الضلال لمن يريد أن يَضل؟ وما تفسير قوله تعالى {فإن الله يضل من يشاء ويهدي من يشاء}",
+            "description": "هل الله يضل من يشاء؟ هل الإيمان والكفر بإيدينا أم هو شيء مجبرون عليه؟ هل الإيمان اختياري؟ هل الكفر نتيجة رغبة وإرادة كاملة منّا؟ هل الكفر ...",
+            "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/hqyUPLb7t_g/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/hqyUPLb7t_g/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/hqyUPLb7t_g/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+            },
+            "channelTitle": "د. هيثم طلعت Dr. Haitham Talaat",
+            "liveBroadcastContent": "none",
+            "publishTime": "2020-03-03T18:18:16Z"
+        }
+        },
+        {
+        "kind": "youtube#searchResult",
+        "etag": "zqjui_QC8nAaQlFHDSILSBTc4Qg",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "Xcsu2_mfJKM"
+        },
+        "snippet": {
+            "publishedAt": "2018-10-29T10:27:01Z",
+            "channelId": "UCLj8UFOcdFrvlh24Lw7jrgA",
+            "title": "لماذا خلقنا الله؟ ولماذا أمرنا بعبادته؟ أصعب سؤال وأسهل جواب (English Subtitle)",
+            "description": "ملاحظة: محتوى الحلقات على قناتي ليست له أية حقوق نشر، مَن يرى في المحتوى نفعا فلينشره وليرفعه وليدعمه في أي موقع أو قناة وبأية ...",
+            "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/Xcsu2_mfJKM/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/Xcsu2_mfJKM/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/Xcsu2_mfJKM/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+            },
+            "channelTitle": "د. هيثم طلعت Dr. Haitham Talaat",
+            "liveBroadcastContent": "none",
+            "publishTime": "2018-10-29T10:27:01Z"
+        }
+        },
+        {
+        "kind": "youtube#searchResult",
+        "etag": "r6iaLPm6NMM7Ai0RH43rmhu5ZDU",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "gMM9YfCrFk0"
+        },
+        "snippet": {
+            "publishedAt": "2019-11-15T18:26:03Z",
+            "channelId": "UCLj8UFOcdFrvlh24Lw7jrgA",
+            "title": "الملحدون العرب يُعلِّمون العالم معنى الإنسانية| أنشروا المقطع ليعرفهم العالم على حقيقتهم English sub",
+            "description": "الملحدون العرب يهددونني بالقتل المباشر بالتصفية الجسدية أو التبليغات ضد قناتي! هذا ما يُظهرونه فكيف بما يُبطنون؟ انشروا هذه الحلقة ...",
+            "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/gMM9YfCrFk0/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/gMM9YfCrFk0/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/gMM9YfCrFk0/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+            },
+            "channelTitle": "د. هيثم طلعت Dr. Haitham Talaat",
+            "liveBroadcastContent": "none",
+            "publishTime": "2019-11-15T18:26:03Z"
+        }
+        },
+        {
+        "kind": "youtube#searchResult",
+        "etag": "kyyVY7Yo5a5t9kw_fmpdhQCaL8g",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "UDQmxZc9uzU"
+        },
+        "snippet": {
+            "publishedAt": "2019-03-26T10:13:15Z",
+            "channelId": "UCLj8UFOcdFrvlh24Lw7jrgA",
+            "title": "أدلة أركيولوجية على وجود الأنبياء (كإبراهيم وداوود عليهما السلام) وعلى خروج بني إسرائيل من مصر",
+            "description": "رابط كتاب القضية لا تزال مفتوحة: http://www.mediafire.com/file/c5w7lvyx8n98o73/%D9%82%D8%B6%D9%8A%D8%A9.pdf لا ...",
+            "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/UDQmxZc9uzU/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/UDQmxZc9uzU/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/UDQmxZc9uzU/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+            },
+            "channelTitle": "د. هيثم طلعت Dr. Haitham Talaat",
+            "liveBroadcastContent": "none",
+            "publishTime": "2019-03-26T10:13:15Z"
+        }
+        },
+        {
+        "kind": "youtube#searchResult",
+        "etag": "h-98-R8aVIMsca0seKtLx5OhALY",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "QmM0NXXN5YU"
+        },
+        "snippet": {
+            "publishedAt": "2018-11-05T17:29:28Z",
+            "channelId": "UCLj8UFOcdFrvlh24Lw7jrgA",
+            "title": "أين يأجوج ومأجوج؟ | ملحد يسأل والدكتور يجيب  (English Subtitle)",
+            "description": "رسالتان في فتنة الدجال ويأجوج ومأجوج، تأليف الشيخ: عبد الرحمن بن ناصر السعدي رحمه الله. World non-religious population by ...",
+            "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/QmM0NXXN5YU/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/QmM0NXXN5YU/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/QmM0NXXN5YU/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+            },
+            "channelTitle": "د. هيثم طلعت Dr. Haitham Talaat",
+            "liveBroadcastContent": "none",
+            "publishTime": "2018-11-05T17:29:28Z"
+        }
+        },
+        {
+        "kind": "youtube#searchResult",
+        "etag": "R244zqmj9oJj3FdkCWLaEt833dc",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "N8rjdOFehSk"
+        },
+        "snippet": {
+            "publishedAt": "2018-10-04T16:06:50Z",
+            "channelId": "UCLj8UFOcdFrvlh24Lw7jrgA",
+            "title": "الميتوكوندريا تثبت أن جميع البشر يعودون لأم واحدة&quot;حواء الميتوكوندريا&quot;|ضربة للملحدين (English Sub)",
+            "description": "صدمة لكل ملحد| كل البشر يعودون لأب واحد وأم واحدة. تحديد درجة القرابة بأي شخص في العالم: ...",
+            "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/N8rjdOFehSk/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/N8rjdOFehSk/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/N8rjdOFehSk/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+            },
+            "channelTitle": "د. هيثم طلعت Dr. Haitham Talaat",
+            "liveBroadcastContent": "none",
+            "publishTime": "2018-10-04T16:06:50Z"
+        }
+        },
+        {
+        "kind": "youtube#searchResult",
+        "etag": "APHf6hk_zBiJwMTTlIYise_i_A0",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "TtJG2n4ayGI"
+        },
+        "snippet": {
+            "publishedAt": "2020-06-26T17:32:36Z",
+            "channelId": "UCLj8UFOcdFrvlh24Lw7jrgA",
+            "title": "5 خطوات لإيقاف وسواس الخوف من المرض ،،، وسواس توهم المرض ووسواس الموت",
+            "description": "وسواس الخوف من المرض ووسواس توهم المرض ووسواس الموت ووسواس الشعور بقرب الأجل، هذا النوع من الوساوس ازداد مؤخرًا نسأل الله أن يرفع ...",
+            "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/TtJG2n4ayGI/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/TtJG2n4ayGI/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/TtJG2n4ayGI/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+            },
+            "channelTitle": "د. هيثم طلعت Dr. Haitham Talaat",
+            "liveBroadcastContent": "none",
+            "publishTime": "2020-06-26T17:32:36Z"
+        }
+        },
+        {
+        "kind": "youtube#searchResult",
+        "etag": "m1nBqBU4OjUuykg7YiC4tcdbCYI",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "0dmrp60giOM"
+        },
+        "snippet": {
+            "publishedAt": "2021-03-12T16:36:42Z",
+            "channelId": "UCLj8UFOcdFrvlh24Lw7jrgA",
+            "title": "أخبار لا يعلمها إلا نبي | تحصين العقل المسلم (33) English Subtitle",
+            "description": "كيف علم النبي محمد صلى الله عليه وسلم بالمُغيبات التي وقعت بعد وفاته؟ كيف كان ينتظر الصحابة مَن الفريق الذي سيقتل عمارًا؟",
+            "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/0dmrp60giOM/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/0dmrp60giOM/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/0dmrp60giOM/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+            },
+            "channelTitle": "د. هيثم طلعت Dr. Haitham Talaat",
+            "liveBroadcastContent": "none",
+            "publishTime": "2021-03-12T16:36:42Z"
+        }
+        },
+        {
+        "kind": "youtube#searchResult",
+        "etag": "2HsIlh0w1XQ9uHvUSoxJ1yigiPg",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "xkSwgUrWiko"
+        },
+        "snippet": {
+            "publishedAt": "2021-04-17T20:00:25Z",
+            "channelId": "UCLj8UFOcdFrvlh24Lw7jrgA",
+            "title": "الإيمان سؤال وجواب | حلقة 6: ثلاث قواعد عقلية في الاستدلال على وجود الله",
+            "description": "نذكر في هذه الحلقة من سلسلة \"الإيمان سؤال وجواب\" ثلاثة من القواعد العقلية التي نستدل بها على وجود الله سبحانه... \"الإيمان سؤال وجواب\" هو ...",
+            "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/xkSwgUrWiko/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/xkSwgUrWiko/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/xkSwgUrWiko/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+            },
+            "channelTitle": "د. هيثم طلعت Dr. Haitham Talaat",
+            "liveBroadcastContent": "none",
+            "publishTime": "2021-04-17T20:00:25Z"
+        }
+        },
+        {
+        "kind": "youtube#searchResult",
+        "etag": "wvP2ES95r2wPtDdBEsJxfpjC_EI",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "af4r7_snsOc"
+        },
+        "snippet": {
+            "publishedAt": "2019-03-04T20:58:51Z",
+            "channelId": "UCLj8UFOcdFrvlh24Lw7jrgA",
+            "title": "{ نظرية التطور } (4) انفجار الكامبري والورطة الإلحادية (English Subtitle)",
+            "description": "لا تنسوا عمل إعجاب للمقطع والاشتراك في القناة بارك الله فيكم. ونشر المقطع بين المهتمين بهذا الملف على أوسع نطاق حفظكم الله.",
+            "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/af4r7_snsOc/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/af4r7_snsOc/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/af4r7_snsOc/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+            },
+            "channelTitle": "د. هيثم طلعت Dr. Haitham Talaat",
+            "liveBroadcastContent": "none",
+            "publishTime": "2019-03-04T20:58:51Z"
+        }
+        },
+        {
+        "kind": "youtube#searchResult",
+        "etag": "OcSZZJjf74fIfWgGte2OAi4K9-o",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "oL70h6LCJrU"
+        },
+        "snippet": {
+            "publishedAt": "2020-05-20T12:13:08Z",
+            "channelId": "UCLj8UFOcdFrvlh24Lw7jrgA",
+            "title": "حديث عجب الذنب وحديث عدد المفاصل : هل فيهما إعجاز علمي مُثبت؟",
+            "description": "لمن يريد مشاهدة الحلقة كاملة على هذا الرابط: https://www.youtube.com/watch?v=3IZoYSiVBN8 الإعجاز العلمي المثبت مؤخرًا في حديث: ...",
+            "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/oL70h6LCJrU/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/oL70h6LCJrU/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/oL70h6LCJrU/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+            },
+            "channelTitle": "د. هيثم طلعت Dr. Haitham Talaat",
+            "liveBroadcastContent": "none",
+            "publishTime": "2020-05-20T12:13:08Z"
+        }
+        },
+        {
+        "kind": "youtube#searchResult",
+        "etag": "Gw1FJBCIzhwAk6qGdSWMO8jpVKY",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "191J8mXqTY8"
+        },
+        "snippet": {
+            "publishedAt": "2019-08-09T12:43:50Z",
+            "channelId": "UCLj8UFOcdFrvlh24Lw7jrgA",
+            "title": "تحصين العقل المسلم (4) ميكانيك الكم والسببية | أشهر 3 اعتراضات English Subtitle",
+            "description": "في هذه الحلقة نتناول قضية السببية وهل لها وجود في عالم ميكانيك الكم؟ هل لها وجود في العالم دون الذري؟ وهل للسببية وجود لحظة ظهور الكون؟",
+            "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/191J8mXqTY8/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/191J8mXqTY8/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/191J8mXqTY8/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+            },
+            "channelTitle": "د. هيثم طلعت Dr. Haitham Talaat",
+            "liveBroadcastContent": "none",
+            "publishTime": "2019-08-09T12:43:50Z"
+        }
+        },
+        {
+        "kind": "youtube#searchResult",
+        "etag": "nm-GTZHaIpDyl6G3DANs0qaCoeE",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "UPBMVB-AUcM"
+        },
+        "snippet": {
+            "publishedAt": "2020-06-01T15:20:37Z",
+            "channelId": "UCLj8UFOcdFrvlh24Lw7jrgA",
+            "title": "حقائق لا تعرفها عن القرآن - توحيد المصاحف وعصمة القرآن هل هي حقيقة أم وهم؟ يا ابن آدم المصري انتبه!",
+            "description": "لماذا توجد عشرات المصاحف المختلفة فى العالم وهل تختلف عن بعضها البعض؟ وماذا عن القراءات العشر والأحرف السبعة؟ حلقة لكل ملحد باحث ...",
+            "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/UPBMVB-AUcM/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/UPBMVB-AUcM/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/UPBMVB-AUcM/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+            },
+            "channelTitle": "د. هيثم طلعت Dr. Haitham Talaat",
+            "liveBroadcastContent": "none",
+            "publishTime": "2020-06-01T15:20:37Z"
+        }
+        },
+        {
+        "kind": "youtube#searchResult",
+        "etag": "b_USCUaCcLmP57R8_KAxnnNsJ2Y",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "S4FUJLcTEAY"
+        },
+        "snippet": {
+            "publishedAt": "2020-04-10T15:37:27Z",
+            "channelId": "UCLj8UFOcdFrvlh24Lw7jrgA",
+            "title": "تحدي صحة الإسلام | أنا قبلت التحدي &quot; وسأجيب التحدي بدون ذِكر معجزات &quot;",
+            "description": "تحدي الدليل على صحة الإسلام ، ما هي أدلة صحة الإسلام ، مشروع جميل لبيان عظمة هذا الدين وجمالية هذا الدين ويقينيات هذا الدين، يشارك فيه هذه ...",
+            "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/S4FUJLcTEAY/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/S4FUJLcTEAY/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/S4FUJLcTEAY/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+            },
+            "channelTitle": "د. هيثم طلعت Dr. Haitham Talaat",
+            "liveBroadcastContent": "none",
+            "publishTime": "2020-04-10T15:37:27Z"
+        }
+        },
+        {
+        "kind": "youtube#searchResult",
+        "etag": "Vg4j1QwQ_IFuedOaSB1CqeSc1eY",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "XHU70lBsmbs"
+        },
+        "snippet": {
+            "publishedAt": "2021-04-16T20:00:12Z",
+            "channelId": "UCLj8UFOcdFrvlh24Lw7jrgA",
+            "title": "الإيمان سؤال وجواب | حلقة 5: كيف عرفنا الله؟ 4 طرق نعرف بها الله سبحانه",
+            "description": "هناك أربعة طرق جوهرية نعرف بها الله سبحانه، نناقش هذه الطرق في هذه الحلقة من برنامج: \"الإيمان سؤال وجواب\". \"الإيمان سؤال وجواب\" هو برنامج ...",
+            "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/XHU70lBsmbs/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/XHU70lBsmbs/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/XHU70lBsmbs/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+            },
+            "channelTitle": "د. هيثم طلعت Dr. Haitham Talaat",
+            "liveBroadcastContent": "none",
+            "publishTime": "2021-04-16T20:00:12Z"
+        }
+        },
+        {
+        "kind": "youtube#searchResult",
+        "etag": "NkVsunN857prt0LGlKxjkhRD-SI",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "Ifk16sQi4ws"
+        },
+        "snippet": {
+            "publishedAt": "2018-04-17T10:04:15Z",
+            "channelId": "UCLj8UFOcdFrvlh24Lw7jrgA",
+            "title": "تدمير شبهة السبايا والرِق وملك اليمين والجواري والإماء ... الرد على شبهة السبي",
+            "description": "حراس الوهم - عبد الله رشدي - حقيقة ملك اليمين ... السبي وملك اليمين والإماء والرق من أكثر الشبهات المثارة من قبل الملاحدة، وفي هذه الحلقة إن ...",
+            "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/Ifk16sQi4ws/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/Ifk16sQi4ws/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/Ifk16sQi4ws/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+            },
+            "channelTitle": "د. هيثم طلعت Dr. Haitham Talaat",
+            "liveBroadcastContent": "none",
+            "publishTime": "2018-04-17T10:04:15Z"
+        }
+        },
+        {
+        "kind": "youtube#searchResult",
+        "etag": "Nygxv531MDmZr7a3vq3wFjmQPjk",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "lbpWUf8mrTA"
+        },
+        "snippet": {
+            "publishedAt": "2018-12-04T10:31:46Z",
+            "channelId": "UCLj8UFOcdFrvlh24Lw7jrgA",
+            "title": "{ علـوم زائفـة } (1) وحدة الوجود | ومأساة أينشتاين مع ميكانيك الكم",
+            "description": "سلسلة علوم زائفة هي سلسلة لتوعية المسلمين بأخطار فلسفات معاصرة دخلت عبر الغزو الثقافي والدجل الفكري، الذي يُروَّج له باعتباره ...",
+            "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/lbpWUf8mrTA/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/lbpWUf8mrTA/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/lbpWUf8mrTA/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+            },
+            "channelTitle": "د. هيثم طلعت Dr. Haitham Talaat",
+            "liveBroadcastContent": "none",
+            "publishTime": "2018-12-04T10:31:46Z"
+        }
+        },
+        {
+        "kind": "youtube#searchResult",
+        "etag": "oXguh3TqYeSnb1oHiqHGON2oZDA",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "Apr8YBR51x8"
+        },
+        "snippet": {
+            "publishedAt": "2020-02-27T18:09:41Z",
+            "channelId": "UCLj8UFOcdFrvlh24Lw7jrgA",
+            "title": "أين يقع العقل؟ دع علم الأعصاب يجيبك",
+            "description": "أين يقع العقل؟ هل العقل في الدماغ؟ هل هناك علاقة بين المخ والعقل؟ هل النشاط العقلي هو نشاط دماغي؟ استمع لهذه الحلقة واعرف الإجابة!",
+            "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/Apr8YBR51x8/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/Apr8YBR51x8/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/Apr8YBR51x8/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+            },
+            "channelTitle": "د. هيثم طلعت Dr. Haitham Talaat",
+            "liveBroadcastContent": "none",
+            "publishTime": "2020-02-27T18:09:41Z"
+        }
+        },
+        {
+        "kind": "youtube#searchResult",
+        "etag": "UTw06wwOaHI8TtENf027aXlxpBY",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "m7rtaWtd2v8"
+        },
+        "snippet": {
+            "publishedAt": "2019-12-23T17:36:36Z",
+            "channelId": "UCLj8UFOcdFrvlh24Lw7jrgA",
+            "title": "نبوءة عجيبة عمرها 3000 عام تتحقق اليوم",
+            "description": "الحلقة تشويقية لدورة \"تحصين العقل المسلم\" المرحلة الثانية! دورة تحصين العقل المسلم على ثلاث مراحل: المرحلة الأولى تتناول: دلائل ...",
+            "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/m7rtaWtd2v8/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/m7rtaWtd2v8/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/m7rtaWtd2v8/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+            },
+            "channelTitle": "د. هيثم طلعت Dr. Haitham Talaat",
+            "liveBroadcastContent": "none",
+            "publishTime": "2019-12-23T17:36:36Z"
+        }
+        },
+        {
+        "kind": "youtube#searchResult",
+        "etag": "6_Ay0qTFZbZ6BmZNtmvuKpOcZaM",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "4JIacHeK7Cw"
+        },
+        "snippet": {
+            "publishedAt": "2018-11-22T15:56:52Z",
+            "channelId": "UCLj8UFOcdFrvlh24Lw7jrgA",
+            "title": "{ نظرية التطور } (1) كيف نشأت الحياة",
+            "description": "نظرية التطور ... سلسلة جديدة تأتيكم على قناتي! لا تنسوا عمل إعجاب للمقطع والاشتراك في القناة بارك الله فيكم. ونشر هذه السلسلة بين ...",
+            "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/4JIacHeK7Cw/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/4JIacHeK7Cw/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/4JIacHeK7Cw/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+            },
+            "channelTitle": "د. هيثم طلعت Dr. Haitham Talaat",
+            "liveBroadcastContent": "none",
+            "publishTime": "2018-11-22T15:56:52Z"
+        }
+        },
+        {
+        "kind": "youtube#searchResult",
+        "etag": "H5QaW4WnU3tkUphfAunYpkBPxuc",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "FSYDdqnMsUw"
+        },
+        "snippet": {
+            "publishedAt": "2020-09-18T12:57:03Z",
+            "channelId": "UCLj8UFOcdFrvlh24Lw7jrgA",
+            "title": "القرآن يصحح إشكالات في التوراة لا يعرف لها اليهود حلاً حتى الساعة|تحصين العقل المسلم(26) English Sub",
+            "description": "حلقات البشارات تبدأ بالحلقة الثامنة عشرة من هذه الدورة إلى الحلقة السادسة والعشرين؛ رابط قائمة التشغيل: ...",
+            "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/FSYDdqnMsUw/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/FSYDdqnMsUw/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/FSYDdqnMsUw/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+            },
+            "channelTitle": "د. هيثم طلعت Dr. Haitham Talaat",
+            "liveBroadcastContent": "none",
+            "publishTime": "2020-09-18T12:57:03Z"
+        }
+        },
+        {
+        "kind": "youtube#searchResult",
+        "etag": "YHRdU-GiZj9QecJPR2q5e92uBMw",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "Sc6lOAd-J6Y"
+        },
+        "snippet": {
+            "publishedAt": "2020-07-12T19:36:22Z",
+            "channelId": "UCLj8UFOcdFrvlh24Lw7jrgA",
+            "title": "كيف دخل الإلحاد إلى الصين؟ وكيف كاد أن يُدمرها في ستينيات القرن الماضي؟",
+            "description": "كيف أصبحت الصين دولة ملحدة؟ وكيف انتشر الإلحاد في الصين بهذه الصورة؟ ولماذا الصين أضحت موطن أشهر الإبادات الشمولية بحق البشر؟",
+            "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/Sc6lOAd-J6Y/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/Sc6lOAd-J6Y/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/Sc6lOAd-J6Y/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+            },
+            "channelTitle": "د. هيثم طلعت Dr. Haitham Talaat",
+            "liveBroadcastContent": "none",
+            "publishTime": "2020-07-12T19:36:22Z"
+        }
+        },
+        {
+        "kind": "youtube#searchResult",
+        "etag": "uKjC42HDLl2izkqTtqq8PqY5YJ8",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "L_S1k24mIGg"
+        },
+        "snippet": {
+            "publishedAt": "2021-04-14T20:00:03Z",
+            "channelId": "UCLj8UFOcdFrvlh24Lw7jrgA",
+            "title": "الإيمان سؤال وجواب | حلقة 3: عبودية الاستسلام... وما هي علامات الاستسلام لله؟",
+            "description": "العبودية لله في كل صغيرة وكبيرة في حياتي والتسليم لله والرضا بشرعه وقدره...فأنا كمسلم مطالب بذلك! نتناول في هذه الحلقة علامات ...",
+            "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/L_S1k24mIGg/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/L_S1k24mIGg/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/L_S1k24mIGg/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+            },
+            "channelTitle": "د. هيثم طلعت Dr. Haitham Talaat",
+            "liveBroadcastContent": "none",
+            "publishTime": "2021-04-14T20:00:03Z"
+        }
+        },
+        {
+        "kind": "youtube#searchResult",
+        "etag": "oCfhyZu4rYMewiP1rwUuKfrk68E",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "pvde2v9FKz8"
+        },
+        "snippet": {
+            "publishedAt": "2019-07-12T14:20:01Z",
+            "channelId": "UCLj8UFOcdFrvlh24Lw7jrgA",
+            "title": "تحصين العقل المسلم (1) دورة للدعاة والمغتربين والمبتعثين وأصحاب الشبهات والملاحدة واللادينيينEng Sub",
+            "description": "1- موقع المصحف الالكتروني بجامعة الملك سعود: http://quran.ksu.edu.sa/index.php#aya=1_1&m=hafs&qaree=ayman&trans=ar_mu 2- ...",
+            "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/pvde2v9FKz8/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/pvde2v9FKz8/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/pvde2v9FKz8/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+            },
+            "channelTitle": "د. هيثم طلعت Dr. Haitham Talaat",
+            "liveBroadcastContent": "none",
+            "publishTime": "2019-07-12T14:20:01Z"
+        }
+        },
+        {
+        "kind": "youtube#searchResult",
+        "etag": "uMahbo8J1YOhZZJR2w7MK7xW_kw",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "fAyGremasXk"
+        },
+        "snippet": {
+            "publishedAt": "2020-01-21T18:05:14Z",
+            "channelId": "UCLj8UFOcdFrvlh24Lw7jrgA",
+            "title": "4 امبراطوريات عملاقة ثم يأتي ابن الإنسان الذي سيعيد التوحيد للأرض؛ وتَفتح أمته الممالك Eng Sub",
+            "description": "سوف تظهر 4 ممالك ثم يأتي ابن الإنسان؛ اللبنة الذي سيعيد العالم للتوحيد! هذه الحلقة هي تشويقية للمرحلة الثانية من دورة تحصين العقل ...",
+            "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/fAyGremasXk/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/fAyGremasXk/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/fAyGremasXk/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+            },
+            "channelTitle": "د. هيثم طلعت Dr. Haitham Talaat",
+            "liveBroadcastContent": "none",
+            "publishTime": "2020-01-21T18:05:14Z"
+        }
+        },
+        {
+        "kind": "youtube#searchResult",
+        "etag": "Enf9Q3JCMyjelIElKs4IR00RNg0",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "uae3kuRe3GA"
+        },
+        "snippet": {
+            "publishedAt": "2020-05-11T18:56:03Z",
+            "channelId": "UCLj8UFOcdFrvlh24Lw7jrgA",
+            "title": "أفضل الأعمال في الليالي العشر الأواخر من رمضان لتحري ليلة القدر",
+            "description": "ليلة القدر ... فرصة العام وهدية من الله؛ ما هي أفضل الأعمال والسنن والمستحبات في هذه الليلة وكيف نتحرى هذه الليلة وكيف ندرك قيامها؟ في هذه ...",
+            "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/uae3kuRe3GA/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/uae3kuRe3GA/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/uae3kuRe3GA/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+            },
+            "channelTitle": "د. هيثم طلعت Dr. Haitham Talaat",
+            "liveBroadcastContent": "none",
+            "publishTime": "2020-05-11T18:56:03Z"
+        }
+        }
+    ]
+}

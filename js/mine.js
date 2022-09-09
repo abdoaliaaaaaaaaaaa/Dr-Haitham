@@ -1,3 +1,54 @@
+let myJson = new XMLHttpRequest();
+myJson.open("GET", "http://myjson.dit.upm.es/api/bins/fqga");
+myJson.send();
+
+let bocks = document.querySelector("article.articles .container .bocks");
+
+myJson.onreadystatechange = function () {
+  if (this.readyState === 4 && this.status === 200) {
+    let responseTextMyJson = JSON.parse(this.responseText);
+    for (let i = 0; i < responseTextMyJson.bocks.length; i++) {
+      const parent = document.createElement("div");
+      const parentText = document.createElement("div");
+      parentText.className = "text";
+      parent.className = "bock";
+
+      const ima = document.createElement("div");
+      const imgUrl = document.createElement("img");
+      ima.className = "images";
+      imgUrl.src = `${responseTextMyJson.bocks[i].bock.url}`;
+
+      ima.appendChild(imgUrl);
+
+      const paragraph = document.createElement("p");
+      const paragraphTitle = document.createTextNode(
+        responseTextMyJson.bocks[i].bock.title
+      );
+      paragraph.appendChild(paragraphTitle);
+
+      const scrLink = document.createElement("a");
+      const scrLinkText = document.createTextNode(responseTextMyJson.download);
+      scrLink.appendChild(scrLinkText);
+      scrLink.className = "download";
+      scrLink.href = `${responseTextMyJson.bocks[i].bock.src_link}`;
+
+      parentText.appendChild(paragraph);
+      parentText.appendChild(scrLink);
+      parent.appendChild(ima);
+      parent.appendChild(parentText);
+      bocks.appendChild(parent);
+    }
+  }
+};
+
+// -----------------------------------------
+
+let images = document.createElement("img");
+images.src = "../images/لقطة الشاشة 2022-09-09 072402.png";
+let header = document.querySelector("header.images");
+images.style.maxWidth = "100%";
+header.append(images);
+
 // // Videos Rating تقييم 4
 async function getVideo(apiLink) {
   try {
@@ -11,20 +62,13 @@ async function getVideo(apiLink) {
   }
 }
 
-let images = document.createElement("img");
-images.src = "../images/لقطة الشاشة 2022-09-09 072402.png";
-let header = document.querySelector("header.images");
-images.style.maxWidth = "100%";
-header.append(images);
-
 getVideo(
   "https://youtube.googleapis.com/youtube/v3/search?part=snippet&channelId=UCLj8UFOcdFrvlh24Lw7jrgA&maxResults=4&order=date&key=AIzaSyDDsLuqe_Gc10hV6RJ3_QBFhjW5blGZhW8"
 ).then((result) => {
-  let boxAll = document.querySelector(".visuals .container .box-all");
+  let boxAll = document.querySelector("main.visuals .container .box-all");
   for (let i = 0; i <= 4; i++) {
     let boxAllTest = document.createElement("div");
     boxAllTest.className = "box";
-    boxAll.appendChild(boxAllTest);
     let p = document.createElement("p");
     let text = document.createTextNode(result[i].snippet.title);
     p.appendChild(text);
@@ -38,6 +82,7 @@ getVideo(
     autoplay; clipboard-write; encrypted-media;
     gyroscope; picture-in-picture"allowfullscreen>
     </iframe>`;
+    boxAll.appendChild(boxAllTest);
   }
 });
 

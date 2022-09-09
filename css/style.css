@@ -353,18 +353,76 @@ main .box-all .box video {
 /* End Video */
 
 /* Start Bock */
-.articles {
+article.articles {
+    position: relative;
     background-image: url(../images/image6.jpg);
     background-repeat: no-repeat;
     background-size: cover;
+    background-attachment: fixed;
 }
-.articles .bocks {
+article.articles .container .bocks {
     display: grid;
-    grid-template-columns: repeat(4, 1fr);
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
     margin-top: var(--margin-top);
     margin-bottom: var(--margin-bottom);
-    row-gap: 50px;
-    column-gap: 10px;
+    gap: 30px;
+}
+article.articles .container .bocks .bock {
+    display: flex;
+    flex-direction: column;
+}
+article.articles .container .bocks .bock .images {
+    background-color: white;
+    max-width: 100%;
+    height: 500px;
+}
+article.articles .container .bocks .bock .images img {
+    max-width: 80%;
+    height: 80%;
+}
+article.articles .container .bocks .bock .text {
+    max-width: 100%;
+    margin-top: -53px;
+    background-color: white;
+    padding: 5px 10px 0;
+}
+article.articles .container .bocks .bock .text p {
+    font-size: 20px;
+    font-weight: bold;
+    color: var(--mane-color);
+    margin: 0;
+}
+article.articles .container .bocks .bock .text p:hover {
+    color: var(--mane-color-alt);
+}
+article.articles .container .bocks .bock .text a.download {
+    display: flex;
+    font-size: 16px;
+    justify-content: flex-end;
+    cursor: pointer;
+    color: black;
+    padding: 10px;
+    margin-top: 5px;
+}
+article.articles .container .bocks .bock .text a.download:hover {
+    color: var(--mane-color);
+}
+
+@media (min-width: 1200px) {
+    .articles .container {
+        width: 90%;
+    }
+}
+@media (max-width: 767px) {
+    .articles .bock img {
+        width: 100%;
+        height: 250px;
+    }
+}
+@media (max-width: 767px) {
+    .articles .bock .text {
+        width: 100%;
+    }
 }
 @media (max-width: 767px) {
     .articles .bocks {
@@ -378,69 +436,10 @@ main .box-all .box video {
         gap: 20px;
     }
 }
-
 @media (max-width: 767px) {
     .articles .bock {
         margin: 0;
     }
-}
-.articles .bock .text {
-    width: 200px;
-    padding: 5px;
-    background-color: white;
-    font-size: 20px;
-    font-weight: bold;
-    text-align: center;
-    word-break: break-all;
-    white-space: nowrap;
-    text-overflow: ellipsis;
-    overflow: hidden;
-}
-.articles .bock .text:hover {
-    height: auto;
-    word-break: normal;
-    white-space: normal;
-}
-@media (max-width: 767px) {
-    .articles .bock .text {
-        width: 100%;
-    }
-}
-.articles .bock p {
-    color: var(--mane-color);
-}
-.articles .bock p:hover {
-    color: var(--mane-color-alt);
-}
-.articles .bock img {
-    width: 200px;
-    height: 300px;
-    object-fit: cover;
-    object-position: bottom;
-}
-@media (min-width: 1200px) {
-    .articles .container {
-        width: 90%;
-    }
-}
-@media (max-width: 767px) {
-    .articles .bock img {
-        width: 100%;
-        height: 250px;
-    }
-}
-.download {
-    display: block;
-    margin: 0 auto;
-    font-size: 20px;
-    text-align: center;
-    cursor: pointer;
-    color: white;
-    position: relative;
-    padding: 10px;
-}
-.download:hover {
-    color: var(--mane-color);
 }
 /* End Bock */
 

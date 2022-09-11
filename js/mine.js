@@ -205,7 +205,7 @@ document.querySelector("footer").innerHTML = `<div class="container">
             </div>
           </div>
         </div>
-      </div>`;
+</div>`;
 
 // Scroll Website
 function scrollToTop() {

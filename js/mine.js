@@ -177,6 +177,36 @@ document.querySelector("header").innerHTML = `
   </div>
 `;
 
+document.querySelector("footer").innerHTML = `<div class="container">
+        <div class="parent">
+          <p>
+            ليست للموقع أي حقوق لمن أراد الأسهام في النشر و (الدال علي الخير
+            كفاعله)
+          </p>
+          <div class="social-icon">
+            <div class="box">
+              <a
+                href="https://web.facebook.com/drhaithamofficial"
+                target="_blank"
+                ><i class="fab fa-facebook-f"></i
+              ></a>
+            </div>
+            <div class="box">
+              <a href="https://twitter.com/ibn_badys" target="_blank"
+                ><i class="fab fa-twitter"></i
+              ></a>
+            </div>
+            <div class="box">
+              <a
+                href="https://www.youtube.com/channel/UCLj8UFOcdFrvlh24Lw7jrgA/about"
+                target="_blank"
+                ><i class="fab fa-youtube"></i
+              ></a>
+            </div>
+          </div>
+        </div>
+      </div>`;
+
 // Scroll Website
 function scrollToTop() {
   let button = document.createElement("div");

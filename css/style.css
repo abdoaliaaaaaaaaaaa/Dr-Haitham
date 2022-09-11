@@ -21,6 +21,7 @@ body {
     direction: rtl;
     background-color: #f8f6f6;
     scroll-behavior: smooth;
+    /* overflow-x: hidden; */
 }
 a {
     text-decoration: none;
@@ -290,20 +291,41 @@ section p .sp {
 /* End Section */
 
 /* Start Video */
-
+main.visuals {
+    position: relative;
+    margin-top: var(--margin-top);
+    margin-bottom: 300px;
+}
 @media (min-width: 1200px) {
     .visuals .container {
         width: 90%;
     }
 }
-
-main .box-all {
+main.visuals .box-all {
     display: flex;
     justify-content: space-between;
-    flex-wrap: wrap;
+    position: relative;
+}
+.icon_left,
+.icon_right {
+    font-size: 50px;
+    position: absolute;
+    background-color: white;
+    padding: 0 10px;
+    top: 50%;
+}
+.icon_left {
+    left: 5px;
+    border-left: 3px solid var(--mane-color);
+}
+.icon_right {
+    right: 5px;
+    border-right: 3px solid var(--mane-color);
 }
 main .box-all .box {
     width: calc((100% - 20px) / 2);
+    margin-left: 20px;
+    /* position: relative; */
 }
 @media (max-width: 767px) {
     main .box-all .box {
@@ -317,20 +339,20 @@ main .box-all .box {
     }
 }
 main .box-all .box p {
-    height: 40px;
+    width: 300px;
     background-color: white;
     padding: 15px;
-    overflow: hidden;
     margin-bottom: 0;
+    overflow: hidden;
     word-break: break-all;
     white-space: nowrap;
     text-overflow: ellipsis;
 }
-main .box-all .box p:hover {
+/* main .box-all .box p:hover {
     height: auto;
     word-break: normal;
     white-space: normal;
-}
+} */
 main .box-all .box video {
     width: 100%;
     height: 300px;

@@ -19,7 +19,7 @@
       rel="stylesheet"
     />
   </head>
-  <body>
+  <body onscroll="scrollToTop()">
     <!-- Start Header -->
     <header>
       <div class="container">
@@ -37,19 +37,33 @@
             </ul>
           </nav>
         </div>
-        <div class="navHeader"><i class="fa-solid fa-align-left"></i></div>
-        <div class="navHeader" id="right" style="display: none">
+
+        <div onclick="displayBlockOnIconLeft()" class="navHeader">
+          <i class="fa-solid fa-align-left"></i>
+        </div>
+
+        <div
+          onclick="displayBlockOnIconRight()"
+          class="navHeader right"
+          style="display: none"
+        >
           <i class="fa-solid fa-align-right"></i>
         </div>
       </div>
       <div class="navigation">
         <nav>
           <ul>
-            <li><a href="index.html" class="active">الرئيسية</a></li>
-            <li><a href="#visuals">المرئيات</a></li>
-            <li><a href="#bock">الكتب</a></li>
-            <li><a href="#">المقالات</a></li>
-            <li><a href="html/whit.html">من نحن</a></li>
+            <li>
+              <a onclick="activeFunction()" href="index.html" class="active"
+                >الرئيسية</a
+              >
+            </li>
+            <li><a onclick="activeFunction()" href="#visuals">المرئيات</a></li>
+            <li><a onclick="activeFunction()" href="#bock">الكتب</a></li>
+            <li><a onclick="activeFunction()" href="#">المقالات</a></li>
+            <li>
+              <a onclick="activeFunction()" href="html/whit.html">من نحن</a>
+            </li>
           </ul>
         </nav>
       </div>
@@ -91,6 +105,14 @@
         <div id="box-all" class="box-all"></div>
       </div>
       <a class="video-all" href="html/video-all.html">المزيد من الفيديوهات</a>
+      <i
+        onclick="scrollVideoLeft()"
+        class="fa-solid fa-arrow-left icon_left"
+      ></i>
+      <i
+        onclick="scrollVideoRight()"
+        class="fa-solid fa-arrow-right icon_right"
+      ></i>
     </main>
     <!-- End Video -->
 
@@ -133,8 +155,6 @@
       </div>
     </footer>
     <!-- End Footer -->
-
-    <input type="text" />
 
     <!-- Icons -->
     <script src="js/mine.js"></script>

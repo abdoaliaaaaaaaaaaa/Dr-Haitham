@@ -37,8 +37,14 @@
             </ul>
           </nav>
         </div>
-        <div class="navHeader"><i class="fa-solid fa-align-left"></i></div>
-        <div class="navHeader" id="right" style="display: none">
+        <div onclick="displayBlockOnIconLeft()" class="navHeader">
+          <i class="fa-solid fa-align-left"></i>
+        </div>
+        <div
+          onclick="displayBlockOnIconRight()"
+          class="navHeader right"
+          style="display: none"
+        >
           <i class="fa-solid fa-align-right"></i>
         </div>
       </div>
@@ -46,10 +52,14 @@
       <div class="navigation">
         <nav>
           <ul>
-            <li><a href="index.html">الرئيسية</a></li>
-            <li><a href="#">المقالات</a></li>
-            <li><a href="#visuals">المرئيات</a></li>
-            <li><a href="whit.html">من نحن</a></li>
+            <li>
+              <a onclick="activeFunction()" href="index.html" class="active"
+                >الرئيسية</a
+              >
+            </li>
+            <li><a onclick="activeFunction()" href="#">المقالات</a></li>
+            <li><a onclick="activeFunction()" href="#visuals">المرئيات</a></li>
+            <li><a onclick="activeFunction()" href="whit.html">من نحن</a></li>
           </ul>
         </nav>
       </div>
@@ -61,18 +71,18 @@
     <div class="selectParent">
       <div class="container">
         <div class="older">
-          <label>بحث بحسب</label>
-          <div id="iconOne">
+          <label onclick="displayFilters()">بحث بحسب</label>
+          <div onclick="displayFilters()" id="iconOne">
             <i class="fa-solid fa-arrow-down-wide-short"></i>
           </div>
-          <div id="iconTwo" style="display: none">
+          <div onclick="noneFilters()" id="iconTwo" style="display: none">
             <i class="fa-solid fa-arrow-down-short-wide"></i>
           </div>
         </div>
         <div class="select">
           <ul>
             <li>
-              <a id="videoAll" href="video-all.html"
+              <a id="videoAll" href="video-all.html" class="active"
                 >تاريخ الإضافة ( الأحدث )</a
               >
             </li>
@@ -85,7 +95,6 @@
             <li>
               <a
                 id="videosSearchSortUnspecified"
-                class="active"
                 href="videosSearchSortUnspecified.html"
                 >بحث فرز غير محدد</a
               >

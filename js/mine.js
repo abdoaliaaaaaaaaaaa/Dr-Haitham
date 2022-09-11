@@ -1,9 +1,29 @@
+// (Page Master)
+
+// // Scroll Video
+let boxAll = document.querySelector("main.visuals .container .box-all");
+let count = 100;
+
+// Scroll Video Left
+function scrollVideoLeft() {
+  boxAll.style.transform = `translateX(${count}px)`;
+  count += 100;
+  console.log("Good");
+}
+
+// Scroll Video Right
+function scrollVideoRight() {
+  boxAll.style.transform = `translateX(${count}px)`;
+  count -= 100;
+  console.log("Good");
+}
+
+// Json Video
 let myJson = new XMLHttpRequest();
 myJson.open("GET", "http://myjson.dit.upm.es/api/bins/fqga");
 myJson.send();
 
 let bocks = document.querySelector("article.articles .container .bocks");
-
 myJson.onreadystatechange = function () {
   if (this.readyState === 4 && this.status === 200) {
     let responseTextMyJson = JSON.parse(this.responseText);
@@ -17,39 +37,30 @@ myJson.onreadystatechange = function () {
       const imgUrl = document.createElement("img");
       ima.className = "images";
       imgUrl.src = `${responseTextMyJson.bocks[i].bock.url}`;
-
       ima.appendChild(imgUrl);
+      parent.appendChild(ima);
 
       const paragraph = document.createElement("p");
       const paragraphTitle = document.createTextNode(
         responseTextMyJson.bocks[i].bock.title
       );
       paragraph.appendChild(paragraphTitle);
+      parentText.appendChild(paragraph);
 
       const scrLink = document.createElement("a");
+      scrLink.className = "download";
       const scrLinkText = document.createTextNode(responseTextMyJson.download);
       scrLink.appendChild(scrLinkText);
-      scrLink.className = "download";
       scrLink.href = `${responseTextMyJson.bocks[i].bock.src_link}`;
-
-      parentText.appendChild(paragraph);
       parentText.appendChild(scrLink);
-      parent.appendChild(ima);
+
       parent.appendChild(parentText);
       bocks.appendChild(parent);
     }
   }
 };
 
-// -----------------------------------------
-
-// let images = document.createElement("img");
-// images.src = "../images/لقطة الشاشة 2022-09-09 072402.png";
-// let header = document.querySelector("header.images");
-// images.style.maxWidth = "100%";
-// header.append(images);
-
-// // Videos Rating تقييم 4
+// Videos Master
 async function getVideo(apiLink) {
   try {
     let result = await fetch(apiLink);
@@ -63,31 +74,33 @@ async function getVideo(apiLink) {
 }
 
 getVideo(
-  "https://youtube.googleapis.com/youtube/v3/search?part=snippet&channelId=UCLj8UFOcdFrvlh24Lw7jrgA&maxResults=4&order=date&key=AIzaSyDDsLuqe_Gc10hV6RJ3_QBFhjW5blGZhW8"
+  "https://youtube.googleapis.com/youtube/v3/search?part=snippet&channelId=UC13KPGZ_OhiRRwXwTZuWG9g&maxResults=300&order=date&key=AIzaSyB0AHvujKcQQIn8d3TXWUWEVqTHlKh3rjU"
 ).then((result) => {
   let boxAll = document.querySelector("main.visuals .container .box-all");
   for (let i = 0; i <= 4; i++) {
     let boxAllTest = document.createElement("div");
     boxAllTest.className = "box";
+
+    // Paragraph
     let p = document.createElement("p");
     let text = document.createTextNode(result[i].snippet.title);
     p.appendChild(text);
-
     boxAllTest.appendChild(p);
-    boxAllTest.innerHTML += `<iframe
-    width="100%"
-    height="100%"
+
+    boxAllTest.innerHTML = `<iframe
     src="https://www.youtube.com/embed/${result[i].id.videoId}?rel=0"
-    title="${result[i].snippet.title}" frameborder="0"allow="accelerometer;
-    autoplay; clipboard-write; encrypted-media;
-    gyroscope; picture-in-picture"allowfullscreen>
+    title="${result[i].snippet.title}"
     </iframe>`;
+
     boxAll.appendChild(boxAllTest);
   }
 });
 
-// ---------------------------------------------------------------------------
+// ----------------------------------------------------------------
 
+// All Website (Global)
+
+// Scroll Website
 function scrollToTop() {
   let button = document.createElement("div");
   button.id = "button";
@@ -113,49 +126,60 @@ function scrollToTop() {
   };
 }
 
-scrollToTop();
-
 // Class Active
 let active = document.querySelectorAll("header .navigation nav ul li a");
-active.forEach((a) => {
-  a.addEventListener("click", (e) => {
-    active.forEach((a) => {
-      a.classList.remove("active");
+function activeFunction() {
+  active.forEach((a) => {
+    a.addEventListener("click", (e) => {
+      active.forEach((a) => {
+        a.classList.remove("active");
+      });
+      e.currentTarget.classList.add("active");
+      displayBlockOnIconRight();
     });
-    e.currentTarget.classList.add("active");
-    navigation.style.display = "none";
-    iconRight.style.display = "none";
-    navHeader.style.display = "block";
   });
-});
+}
 
 // Navigation
 let navigation = document.querySelector(".navigation");
 let navHeader = document.querySelector(".navHeader");
-let iconRight = document.getElementById("right");
-navHeader.onclick = function () {
+let iconRight = document.querySelector(".right");
+
+function displayBlockOnIconLeft() {
   navigation.style.display = "block";
   navHeader.style.display = "none";
   iconRight.style.display = "block";
-};
-iconRight.onclick = function () {
+}
+function displayBlockOnIconRight() {
   navigation.style.display = "none";
   iconRight.style.display = "none";
   navHeader.style.display = "block";
-};
+}
 
+// Videos (Pages Rating & Video-all & ....)
 // Navigation Search
 let select = document.querySelector(".selectParent .select");
 let iconOne = document.getElementById("iconOne");
 let iconTwo = document.getElementById("iconTwo");
-iconOne.addEventListener("click", () => {
+
+function displayFilters() {
   select.style.cssText = "display: block; transform: translate(0, 0)";
   iconOne.style.display = "none";
   iconTwo.style.display = "block";
-});
+}
 
-iconTwo.addEventListener("click", () => {
+function noneFilters() {
   select.style.cssText = "display: none; transform: translate(0, 100px)";
   iconOne.style.display = "block";
   iconTwo.style.display = "none";
-});
+}
+
+// Background Images
+let header = document.querySelector("header.images");
+
+let images = document.createElement("img");
+images.src = "../images/لقطة الشاشة 2022-09-09 072402.png";
+
+images.style.maxWidth = "100%";
+
+header.append(images);

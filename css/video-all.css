@@ -20,6 +20,7 @@ body {
     font-family: "Cairo", sans-serif;
     direction: rtl;
     background-color: #f8f6f6;
+    overflow: hidden;
 }
 a {
     text-decoration: none;

@@ -100,6 +100,83 @@ getVideo(
 
 // All Website (Global)
 
+// Components Header
+document.querySelector("header").innerHTML = `
+  <div class="container">
+    <div class="head">
+      <div class="logo">
+        <a href="index.html">
+          <h3>هيثم طلعت</h3>
+        </a>
+      </div>
+      <nav>
+        <ul>
+          <li>
+            <a href="index.html" class="active">
+              الرئيسية
+            </a>
+          </li>
+          <li>
+            <a href="#visuals">المرئيات</a>
+          </li>
+          <li>
+            <a href="#bock">الكتب</a>
+          </li>
+          <li>
+            <a href="#">المقالات</a>
+          </li>
+          <li>
+            <a href="html/indexEng.html">English</a>
+          </li>
+        </ul>
+      </nav>
+    </div>
+
+    <div onclick="displayBlockOnIconLeft()" class="navHeader">
+      <i class="fa-solid fa-align-left"></i>
+    </div>
+
+    <div
+      onclick="displayBlockOnIconRight()"
+      class="navHeader right"
+      style="display: none"
+    >
+      <i class="fa-solid fa-align-right"></i>
+    </div>
+  </div>
+  <div class="navigation">
+    <nav>
+      <ul>
+        <li>
+          <a onclick="activeFunction()" href="index.html" class="active">
+            الرئيسية
+          </a>
+        </li>
+        <li>
+          <a onclick="activeFunction()" href="#visuals">
+            المرئيات
+          </a>
+        </li>
+        <li>
+          <a onclick="activeFunction()" href="#bock">
+            الكتب
+          </a>
+        </li>
+        <li>
+          <a onclick="activeFunction()" href="#">
+            المقالات
+          </a>
+        </li>
+        <li>
+          <a onclick="activeFunction()" href="html/whit.html">
+            من نحن
+          </a>
+        </li>
+      </ul>
+    </nav>
+  </div>
+`;
+
 // Scroll Website
 function scrollToTop() {
   let button = document.createElement("div");
@@ -175,11 +252,11 @@ function noneFilters() {
 }
 
 // Background Images
-let header = document.querySelector("header.images");
+// let headerImages = document.querySelector("header.images");
 
-let images = document.createElement("img");
-images.src = "../images/لقطة الشاشة 2022-09-09 072402.png";
+// let images = document.createElement("img");
+// images.src = "../images/لقطة الشاشة 2022-09-09 072402.png";
 
-images.style.maxWidth = "100%";
+// images.style.maxWidth = "100%";
 
-header.append(images);
+// headerImages.append(images);
